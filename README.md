@@ -22,7 +22,7 @@ Anaconda - Python 3.7
 <br>Display them through matplotlib
 
 ## Program:
-```python
+```
 Developed By:Kirupanandhan.T
 Register Number:212221230051
 
