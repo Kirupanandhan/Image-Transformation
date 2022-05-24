@@ -7,19 +7,19 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+<br>Import the necessary libraries and read the original image and save it as a image variable.
 
 ### Step2:
-<br>
+<br>Define the variable M so that it can be used as map
 
 ### Step3:
-<br>
+<br>get the rows and coloumns of the image using shape() function in opencv
 
 ### Step4:
-<br>
+<br>Translate,scale,shear,reflection,rotation,cropping the image using the modules in opencv
 
 ### Step5:
-<br>
+<br>Display them through matplotlib
 
 ## Program:
 ```python
