@@ -118,29 +118,30 @@ plt.show()
 ```
 ## Output:
 ### Original image:
+![op](./op1.png)
 
 ### i)Image Translation
-![op](./op1.png)
+![op](./op2.png)
 <br>
 <br>
 <br>
 
 ### ii) Image Scaling
-![op](./op2.png)
+![op](./op4.png)
 <br>
 <br>
 <br>
 
 
 ### iii)Image shearing
-![op](./op3.png)
+![op](./op5.png)
 <br>
 <br>
 <br>
 
 
 ### iv)Image Reflection
-![op](./op4.png)
+![op](./op6.png)
 <br>
 <br>
 <br>
@@ -148,7 +149,7 @@ plt.show()
 
 
 ### v)Image Rotation:
-![op](./op5.png)
+![op](./op7.png)
 <br>
 <br>
 <br>
@@ -156,10 +157,8 @@ plt.show()
 
 
 ### vi)Image Cropping
-![op](./op6.png)
-<br>
-<br>
-<br>
+![op](./op8.png)
+
 
 
 
